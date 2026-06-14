@@ -60,4 +60,5 @@ public let profiles = [
     "v8holefuzzing": v8HoleFuzzingProfile,
     "serenity": serenityProfile,
     "njs": njsProfile,
+    "cynic": cynicProfile,
 ]
